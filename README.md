@@ -8,7 +8,7 @@ LAST TEST on JAN 07 2023
  [] then we continue where we left: gparted 
 
 # INSTALL
-
+````
 sudo su
 apt install gparted filezilla grub2 wimtools -y
 =========================
@@ -99,3 +99,6 @@ reboot
 =================================
 
 Boot/virtio_drivers/amd64/win10
+
+````
+
