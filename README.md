@@ -13,7 +13,7 @@ sudo su
 apt install gparted filezilla grub2 wimtools -y
 =========================
 #### HDD part:  delete all HDD partition
-## ( E: gparted.deb  error ) - continue install from github from @Ersin84:  grub
+## ( E: gparted.deb  error ) - continue install from github :  grub
 =========================
 gparted
 =========================
